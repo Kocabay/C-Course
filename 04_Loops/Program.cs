@@ -141,7 +141,6 @@ namespace _04_Loops
 
             #endregion
 
-
             #region Örnek Sınav Sorusu
 
 
